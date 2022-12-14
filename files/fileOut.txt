@@ -1,0 +1,2 @@
+Aqu\u00ED hay un texto de muestra para convertir a UNICODE.
+Compilaci\u00F3n, ping\u00DCino, ac\u00E1, \u00BFC\u00F3mo?, \u00BFQu\u00E9?, confusi\u00F3n
